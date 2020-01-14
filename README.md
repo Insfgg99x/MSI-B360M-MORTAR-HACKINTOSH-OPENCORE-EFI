@@ -55,7 +55,7 @@
 
 
 ## 更新记录
-####
+#### 2020.01.14
 更新 OpenCore 至 0.5.4 正式版；更新 Lilu / AppleALC / CPUFriend / VitualSMC / WhateverGreen 等 Kexts 至官方最新版。<br>
 *OC 0.5.4 正式版的配置文件新增了若干条目，建议按照使用习惯重新配置，并删除`/EFI/OC/Drivers/virtualsmc.efi`文件（已被合并至 OC 中）。*
 
