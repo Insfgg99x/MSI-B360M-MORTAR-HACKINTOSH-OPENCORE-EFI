@@ -88,14 +88,14 @@ STTINGS\高级\PCI子系统设置\Above 4G memory/Crypto Currency mining [允许
 STTINGS\高级\内建显示配置\设置第一显卡 [PEG]<br>
 STTINGS\高级\内建显示配置\集成显卡多显示器 [允许] （如果使用拥有核显的处理器）<br>
 <br>
-STTINGS\高级\ACPI设置\Power LED [双色]（如果选择 [闪烁]，睡眠时电源灯将不断闪烁）<br>
+STTINGS\高级\ACPI设置\电源 LED 灯 [双色]（如果选择 [闪烁]，睡眠时电源灯将不断闪烁）<br>
 <br>
 STTINGS\高级\USB设置\XHCI Hand-off [允许]<br>
 STTINGS\高级\USB设置\传统USB支持 [允许]<br>
 <br>
 STTINGS\高级\电源管理设置\ErP Ready [允许]<br>
 <br>
-STTINGS\高级\Windows操作系统的配置\Windows 10 WHQL支持 [禁止]<br>
+STTINGS\高级\Windows操作系统的配置\Windows 10 WHQL支持 [允许]<br>
 STTINGS\高级\Windows操作系统的配置\MSI 快速开机 [禁止]<br>
 STTINGS\高级\Windows操作系统的配置\快速开机 [禁止]<br>
 <br>
